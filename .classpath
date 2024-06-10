@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-jpa-2.1-api-1.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.28.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-2.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-boot-autoconfigure-2.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-security-web-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-web-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="lib/mockito-core-5.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-1.14.17.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-agent-1.14.17.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-5.1.7.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
